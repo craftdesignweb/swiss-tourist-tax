@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://craftdesignweb.github.io/swiss-tourist-tax/sitemap.xml
