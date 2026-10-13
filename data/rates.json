@@ -1,0 +1,811 @@
+[
+ {
+  "name": "Grindelwald",
+  "canton": "BE",
+  "rate": "4.20",
+  "note_en": "Hotels, holiday flats, camping; mountain inns 3.20; children under 12 free. Plus cantonal levy CHF 1.00.",
+  "note_de": "Hotels, Ferienwohnungen, Camping; Berghäuser 3.20; Kinder unter 12 frei. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://grindelwald.swiss/de/service/gaesteinformation.html",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Interlaken",
+  "canton": "BE",
+  "rate": "2.50–3.50",
+  "note_en": "Regulation sets a range: summer 2.50–3.50, winter 2.20–3.50. Exact current rate: ask the tourism office. Plus cantonal levy CHF 1.00.",
+  "note_de": "Reglement legt Bandbreite fest: Sommer 2.50–3.50, Winter 2.20–3.50. Aktuellen Satz beim Tourismusbüro erfragen. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://www.interlaken-gemeinde.ch/download/pictures/8b/rhlatxks5pykak602c6g1wn17vxbq1/666-1_kurtaxenreglement.pdf",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Adelboden",
+  "canton": "BE",
+  "rate": "4.20",
+  "note_en": "Hotels, holiday flats, B&B; children 6–15: 2.10. New tariff planned from 1 Dec 2026. Plus cantonal levy CHF 1.00.",
+  "note_de": "Hotels, Ferienwohnungen, B&B; Kinder 6–15: 2.10. Neue Tarife ab 1.12.2026 vorgesehen. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://www.adelboden-lenk-kandersteg.ch/mehr/service/kurtaxen",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Saanen / Gstaad",
+  "canton": "BE",
+  "rate": "flat fee",
+  "note_en": "Holiday flats pay an annual flat fee per room (Saanen postal district CHF 261 per room), not per night.",
+  "note_de": "Ferienwohnungen zahlen eine Jahrespauschale pro Zimmer (Postkreis Saanen CHF 261 pro Zimmer), nicht pro Nacht.",
+  "source": "https://www.saanen.ch/wAssets/docs/Reglemente/Kurtaxenreglement_Saanen_2026.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Zürich (city)",
+  "canton": "ZH",
+  "rate": "3.50",
+  "note_en": "Voluntary City Tax (not a statutory levy), since May 2023.",
+  "note_de": "Freiwillige City Tax (keine gesetzliche Abgabe), seit Mai 2023.",
+  "source": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2024/11/der-tourismus-bleibt-der-stadt-zuerich-wichtig.html",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Luzern (city)",
+  "canton": "LU",
+  "rate": "2.30",
+  "note_en": "Holiday flats/guest rooms. Plus cantonal lodging levy CHF 1.10 since 1 Jan 2026 (stadtluzern.ch news 23/2025).",
+  "note_de": "Ferienwohnungen/Fremdenzimmer. Plus kant. Beherbergungsabgabe CHF 1.10 seit 1.1.2026 (Stadt Luzern, Kurzinfo 23/2025).",
+  "source": "https://www.stadtluzern.ch/_docn/4869472/sRSL_9.2.4.1.1_Kurtaxenreglement.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Basel",
+  "canton": "BS",
+  "rate": "4.20",
+  "note_en": "Applies to flats/Airbnb too; children under 12 free.",
+  "note_de": "Gilt auch für Wohnungen/Airbnb; Kinder unter 12 frei.",
+  "source": "https://www.basel.com/de/tourist-information/gasttaxe",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Genève",
+  "canton": "GE",
+  "rate": "4.25",
+  "note_en": "Same for all accommodation types; camping 2.50.",
+  "note_de": "Für alle Unterkunftsarten gleich; Camping 2.50.",
+  "source": "https://www.ge.ch/taxes-touristiques/taxe-sejour",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Lausanne",
+  "canton": "VD",
+  "rate": "3.00",
+  "note_en": "Apartments, villas, studios, rooms; hotels 5.00–7.00.",
+  "note_de": "Wohnungen, Villen, Studios, Zimmer; Hotels 5.00–7.00.",
+  "source": "https://www.lausanne.ch/vie-pratique/economie-et-commerces/taxes-de-sejour/tarif.html",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Villars-sur-Ollon (Ollon)",
+  "canton": "VD",
+  "rate": "3.80",
+  "note_en": "Adults 16+; children 6–15: 1.90; under 6 free.",
+  "note_de": "Erwachsene ab 16; Kinder 6–15: 1.90; unter 6 gratis.",
+  "source": "https://www.alpesvaudoises.ch/fr/Z65/",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Davos",
+  "canton": "GR",
+  "rate": "5.90",
+  "note_en": "Per night, winter and summer.",
+  "note_de": "Pro Logiernacht, Winter und Sommer.",
+  "source": "https://www.gemeindedavos.ch/_docn/4134878/23.01.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Klosters",
+  "canton": "GR",
+  "rate": "5.50",
+  "note_en": "Hotels and holiday flats, age 12+; children 6–11 free.",
+  "note_de": "Hotels und Ferienwohnungen ab 12 J.; Kinder 6–11 gratis.",
+  "source": "https://www.dkinfo.ch/kurtaxen-klosters/ich-bin-dauermieter-in-einer-ferienwohnung/ich-vermiete-meine-wohnung/ich-vermiete-an-feriengaeste-wochenweise-kommerzielle-vermietung/",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "St. Moritz",
+  "canton": "GR",
+  "rate": "2.90",
+  "note_en": "Holiday flats, houses, private rooms.",
+  "note_de": "Ferienwohnungen, -häuser, Privatzimmer.",
+  "source": "https://www.gemeinde-stmoritz.ch/fileadmin/user_upload/dokumente/pdf/gesetze/10.1_Tourismusgesetz_Teilrevision.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Arosa",
+  "canton": "GR",
+  "rate": "capacity levy",
+  "note_en": "No per-night tax: annual levy CHF 400 per property + CHF 22 per m² (rising 2027).",
+  "note_de": "Keine Taxe pro Nacht: Jahresabgabe CHF 400 pro Objekt + CHF 22 pro m² (Erhöhung 2027).",
+  "source": "https://arosalenzerheide.swiss/de/Arosa/Inside/Beherbergungsabgabe-FAQ",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Laax",
+  "canton": "GR",
+  "rate": "5.00",
+  "note_en": "Per night; holiday flats usually pay an annual flat fee instead.",
+  "note_de": "Pro Übernachtung; Ferienwohnungen meist Jahrespauschale.",
+  "source": "https://www.laax-gr.ch/wp-content/uploads/2020/10/12.2_Ausfuehrungsbestimmungen_zum_Gesetz_ueber_Gaeste-_und_Tourismustaxen_Tourismusgesetz_ABzTG.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Saas-Fee / Saastal",
+  "canton": "VS",
+  "rate": "7.00 / 4.50",
+  "note_en": "Holiday flats & hotels: 7.00 summer, 4.50 winter; children half.",
+  "note_de": "Ferienwohnungen & Hotels: 7.00 Sommer, 4.50 Winter; Kinder halb.",
+  "source": "https://www.saas-fee.ch/de/saastalcard/kurtaxe",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Verbier (Val de Bagnes)",
+  "canton": "VS",
+  "rate": "4.00",
+  "note_en": "Hotels and structured accommodation in Verbier; check rule for other villages.",
+  "note_de": "Hotels und strukturierte Beherbergung in Verbier; übrige Dörfer im Reglement prüfen.",
+  "source": "https://www.verbier.ch/app/uploads/ot-verbier/2023/08/Reglement-taxes-de-sejour-01.11.2021-MAJ-23.08.2023.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Crans-Montana",
+  "canton": "VS",
+  "rate": "5.00",
+  "note_en": "Per night; organised accommodation 5.00.",
+  "note_de": "Pro Nacht; organisierte Beherbergung 5.00.",
+  "source": "https://www.commune-cransmontana.ch/media/document/0/commune-crans-montana-taxe-sejour-reglement-ap-2024.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Leukerbad",
+  "canton": "VS",
+  "rate": "6.00",
+  "note_en": "Hotels, holiday flats, group lodges; alpine huts 3.00 (regulation 2023).",
+  "note_de": "Hotels, Ferienwohnungen, Gruppenunterkünfte; Maiensässe 3.00 (Reglement 2023).",
+  "source": "https://www.leukerbad.org/_docn/4144847/Kurtaxenreglement_2023.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Nendaz",
+  "canton": "VS",
+  "rate": "5.00",
+  "note_en": "Zone 1, since 1 Nov 2025; children 6–16 half.",
+  "note_de": "Zone 1, seit 1.11.2025; Kinder 6–16 halb.",
+  "source": "https://www.nendaz.ch/fr/A2077/taxes-de-sejour",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Sion",
+  "canton": "VS",
+  "rate": "2.00",
+  "note_en": "Adults 17+; plus host-paid lodging tax 0.50.",
+  "note_de": "Erwachsene ab 17; plus vom Vermieter bezahlte Beherbergungstaxe 0.50.",
+  "source": "https://siontourisme.ch/fr/taxes-touristiques",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Lugano",
+  "canton": "TI",
+  "rate": "2.00",
+  "note_en": "Cantonal rate for rooms/holiday apartments.",
+  "note_de": "Kantonaler Satz für Zimmer/Ferienwohnungen.",
+  "source": "https://www.ticino.ch/it/hospitality/opportunita/tasse/alloggio.html",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Ascona / Locarno",
+  "canton": "TI",
+  "rate": "2.00",
+  "note_en": "Cantonal rate for rooms/holiday apartments.",
+  "note_de": "Kantonaler Satz für Zimmer/Ferienwohnungen.",
+  "source": "https://www.ticino.ch/it/hospitality/opportunita/tasse/alloggio.html",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "St. Gallen (city)",
+  "canton": "SG",
+  "rate": "3.50",
+  "note_en": "Para-hotel (flats, rooms) since 1 Aug 2026, incl. 1.50 mobility ticket; hotels 4.50.",
+  "note_de": "Parahotellerie seit 1.8.2026, inkl. 1.50 Mobility-Ticket; Hotels 4.50.",
+  "source": "https://partner.st.gallen-bodensee.ch/de/news-aktuelles/detail/anpassung-gasttaxen-tarife-per-1-august-2026-c00c9888-47d5-43c0-9464-2ed07124ce49.html",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Andermatt",
+  "canton": "UR",
+  "rate": "capacity fee",
+  "note_en": "No per-guest tax; second homes CHF 14 per m² per year.",
+  "note_de": "Keine Taxe pro Gast; Zweitwohnungen CHF 14 pro m² und Jahr.",
+  "source": "https://www.gemeinde-andermatt.ch/public/upload/assets/2497/12_Reglement%20%C3%BCber%20den%20Tourismus_2025.pdf?fp=1",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Zermatt",
+  "canton": "VS",
+  "rate": "4.00",
+  "note_en": "All accommodation types, since 1 Nov 2022; children 9–16 half, under 9 free. Annual flat fee option CHF 160 per bed. (Official PDF read via Web Archive copy; live site blocks automated access.)",
+  "note_de": "Alle Unterkunftsformen, seit 1.11.2022; Kinder 9–16 halb, unter 9 frei. Jahrespauschale CHF 160 pro Bett möglich. (Offizielles PDF über Web-Archiv-Kopie gelesen; Live-Seite blockiert automatische Abrufe.)",
+  "source": "https://gemeinde.zermatt.ch/pdf/reglement/Kurtaxenreglement2022.pdf",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://web.archive.org/web/2026/https://gemeinde.zermatt.ch/pdf/reglement/Kurtaxenreglement2022.pdf"
+ },
+ {
+  "name": "Lauterbrunnen",
+  "canton": "BE",
+  "rate": "3.50",
+  "note_en": "Hotels, holiday flats, group lodges; camping 2.80; children 6–16: 1.75. Plus cantonal levy CHF 1.00.",
+  "note_de": "Hotels, Ferienwohnungen, Gruppenunterkünfte; Camping 2.80; Kinder 6–16: 1.75. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://extranet.jungfrauregion.swiss/de/resorts/lauterbrunnen/kurtaxenformular.html",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Wengen",
+  "canton": "BE",
+  "rate": "4.30",
+  "note_en": "Children 6–16: 2.20; under 6 free. Plus cantonal levy CHF 1.00.",
+  "note_de": "Kinder 6–16: 2.20; unter 6 frei. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://wengen.swiss/de/service/gaesteservice/gaesteinformation.html",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Mürren",
+  "canton": "BE",
+  "rate": "5.60",
+  "note_en": "Since 1 May 2026 (was 4.60); children 6–16: 2.90. Plus cantonal levy CHF 1.00.",
+  "note_de": "Seit 1.5.2026 (bisher 4.60); Kinder 6–16: 2.90. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://extranet.jungfrauregion.swiss/files/websites/extranet.jungfrauregion.swiss/Dokumente/Kurtaxen_Informationsflyer_2025.pdf?version=e346a0f061bf2537",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Bern (city)",
+  "canton": "BE",
+  "rate": "4.30",
+  "note_en": "Municipal overnight levy incl. Bern Ticket (free public transport). Plus cantonal levy CHF 1.00.",
+  "note_de": "Kommunale Übernachtungsabgabe inkl. Bern-Ticket (gratis ÖV). Plus kant. Abgabe CHF 1.00.",
+  "source": "https://bern.com/de/unternehmen-bern-welcome/ueber-bern-welcome/administration-beherbergungsbetriebe/abrechnung?region=BERN_CITY",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Pontresina",
+  "canton": "GR",
+  "rate": "3.10",
+  "note_en": "Hotels, holiday flats, private rooms, camping; children under 12 free. Second-home owners pay an annual flat fee (CHF 400–1200 by size).",
+  "note_de": "Hotels, Ferienwohnungen, Privatzimmer, Camping; Kinder unter 12 frei. Zweitwohnungsbesitzer zahlen Jahrespauschale (CHF 400–1200 je nach Grösse).",
+  "source": "https://api.gemeinde-pontresina.ch/fileadmin/user_upload/gemeinde-pontresina/Dokumente/Einwohneramt/Tourismusgesetz_Gemeinde_Pontresina.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Lenzerheide (Vaz/Obervaz)",
+  "canton": "GR",
+  "rate": "4.50",
+  "note_en": "Per night; holiday flats pay an annual flat fee (CHF 100 + per m²). Increase planned from 2028.",
+  "note_de": "Pro Nacht; Ferienwohnungen Jahrespauschale (CHF 100 + pro m²). Erhöhung ab 2028 geplant.",
+  "source": "https://www.vazobervaz.ch/assets/Gesetze-und-Reglemente/8-Volkswirtschaft/83411-AB-Erhebung-Gaeste-und-Tourismusfoerderungsabgabe-220101.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Scuol",
+  "canton": "GR",
+  "rate": "2.50–5.00",
+  "note_en": "Law sets a range; exact rate in municipal implementing rules.",
+  "note_de": "Gesetz legt Bandbreite fest; genauer Satz in den Ausführungsbestimmungen.",
+  "source": "https://www.scuol.net/public/upload/assets/877/840_G%C3%A4ste-_und_Tourismustaxengesetz.pdf?fp=1736178309123",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Montreux",
+  "canton": "VD",
+  "rate": "6.00",
+  "note_en": "Holiday flats/chalets: intercommunal tax CHF 3.00 + communal tax CHF 3.00.",
+  "note_de": "Ferienwohnungen/Chalets: interkommunale Taxe CHF 3.00 + kommunale Taxe CHF 3.00.",
+  "source": "https://www.montreux.ch/fileadmin/documents/commune-de-montreux.ch/pdf/Reglements/CITS_rglmnt2023_adopte.pdf",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.montreux.ch/fileadmin/documents/commune-de-montreux.ch/pdf/Reglements/Reglement_Taxe_communale_sejour.pdf"
+ },
+ {
+  "name": "Fribourg",
+  "canton": "FR",
+  "rate": "3.00",
+  "note_en": "Per night from age 16 (cantonal + regional tax, collected by the host).",
+  "note_de": "Pro Nacht ab 16 Jahren (kantonale + regionale Taxe, vom Gastgeber eingezogen).",
+  "source": "https://fribourg.ch/fr/uft-ftv/faq/",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://fribourg.ch/fr/uft-ftv/tarifs-nuitee-forfaits/"
+ },
+ {
+  "name": "Neuchâtel",
+  "canton": "NE",
+  "rate": "4.20",
+  "note_en": "Canton-wide: hotels, holiday flats, B&B 4.20; group accommodation & camping 3.20. Funds the Neuchâtel Tourist Card.",
+  "note_de": "Kantonsweit: Hotels, Ferienwohnungen, B&B 4.20; Gruppenunterkünfte & Camping 3.20. Finanziert die Neuchâtel Tourist Card.",
+  "source": "https://www.j3l.ch/fr/Z20776/nouveaux-hebergements",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Zug (city)",
+  "canton": "ZG",
+  "rate": null,
+  "note_en": "City rate CHF 2.00 since 2023 (canton report); cantonal law change of 1 Jul 2026 sets a minimum of CHF 2.50, date of entry into force still open (to be set by the cantonal government).",
+  "note_de": "Stadt seit 2023 CHF 2.00 (Bericht Regierungsrat); kantonale Gesetzesänderung vom 1.7.2026 setzt Minimum CHF 2.50, Inkrafttreten noch offen (bestimmt der Regierungsrat).",
+  "source": "https://kr-geschaefte.zug.ch/dokumente/14920/3905-7-18670_Beherbergungsgesetz.pdf",
+  "checked": "2026-10-13",
+  "status": "unverified"
+ },
+ {
+  "name": "Engelberg",
+  "canton": "OW",
+  "rate": "capacity fee",
+  "note_en": "No per-night tax: annual fee. Holiday/second homes CHF 10.60 per m² net living area; hotel rooms CHF 424.20–1590.80 per room by category; group lodges CHF 127.25 per bed; camping CHF 212.10 per pitch.",
+  "note_de": "Keine Taxe pro Nacht: Jahresgebühr. Ferien-/Zweitwohnungen CHF 10.60 pro m² Nettowohnfläche; Hotelzimmer CHF 424.20–1590.80 je nach Kategorie; Gruppenunterkünfte CHF 127.25 pro Schlafplatz; Camping CHF 212.10 pro Standplatz.",
+  "source": "https://www.gde-engelberg.ch/_docn/5415424/Tourismusreglement_der_Einwohnergemeinde_Engelberg_vom_30._September_2013_%28Stand_29._April_2024%29.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Täsch",
+  "canton": "VS",
+  "rate": "4.00",
+  "note_en": "All accommodation types; children 9–16 half.",
+  "note_de": "Alle Unterkunftsformen; Kinder 9–16 halb.",
+  "source": "https://www.gemeinde-taesch.ch/_docn/4203041/Kurtaxenreglement.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Chur",
+  "canton": "GR",
+  "rate": "3.50–7.00",
+  "note_en": "Law sets a range; exact rate in implementing rules.",
+  "note_de": "Gesetz legt Bandbreite fest; genauer Satz in den Ausführungsbestimmungen.",
+  "source": "https://www.chur.ch/_docn/5515705/971a.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Disentis/Mustér",
+  "canton": "GR",
+  "rate": "4.00–8.00",
+  "note_en": "Tourism law 2026 sets a range; exact rate in implementing rules.",
+  "note_de": "Tourismusgesetz 2026 legt Bandbreite fest; genauer Satz in den Ausführungsbestimmungen.",
+  "source": "https://www.disentis.ch/wp-content/uploads/2026/06/830-Tourismusgesetz-2026_-Deutsche-Uebersetzung-midadas.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Flims",
+  "canton": "GR",
+  "rate": "5.00",
+  "note_en": "Per night (implementing rules to the guest and tourism tax law).",
+  "note_de": "Pro Übernachtung (Ausführungsbestimmungen zum Gäste- und Tourismustaxengesetz).",
+  "source": "https://www.gemeindeflims.ch/_doc/2081117",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Silvaplana",
+  "canton": "GR",
+  "rate": "4.00",
+  "note_en": "Summer and winter; plus small transport levy.",
+  "note_de": "Sommer und Winter; plus kleine Verkehrsabgabe.",
+  "source": "https://gemeinde-silvaplana.ch/assets/dokumente/leben/steueramt/information-tourismusabgaben-2022-dt.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Champéry",
+  "canton": "VS",
+  "rate": "3.00",
+  "note_en": "Adults 18+; children 6–17: 1.50; mountain huts 2.00. Same rule for Troistorrents/Morgins and Val-d'Illiez.",
+  "note_de": "Erwachsene ab 18; Kinder 6–17: 1.50; Berghütten 2.00. Gleiches Reglement für Troistorrents/Morgins und Val-d'Illiez.",
+  "source": "https://www.regiondentsdumidi.ch/fr/infos/taxes-touristiques-79380/",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Kandersteg",
+  "canton": "BE",
+  "rate": "3.60",
+  "note_en": "Hotels, holiday flats; children 6–15: 2.50; group lodges/camping 2.60. Plus cantonal levy CHF 1.00.",
+  "note_de": "Hotels, Ferienwohnungen; Kinder 6–15: 2.50; Gruppenunterkünfte/Camping 2.60. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://www.adelboden-lenk-kandersteg.ch/mehr/service/kurtaxen",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Lenk",
+  "canton": "BE",
+  "rate": "5.00",
+  "note_en": "Hotels, holiday flats, camping; children 6–15: 2.50. Plus cantonal levy CHF 1.00.",
+  "note_de": "Hotels, Ferienwohnungen, Camping; Kinder 6–15: 2.50. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://www.adelboden-lenk-kandersteg.ch/mehr/service/kurtaxen",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Frutigen",
+  "canton": "BE",
+  "rate": "3.10",
+  "note_en": "Hotels, holiday flats; children 6–15: 1.60. Plus cantonal levy CHF 1.00.",
+  "note_de": "Hotels, Ferienwohnungen; Kinder 6–15: 1.60. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://www.adelboden-lenk-kandersteg.ch/mehr/service/kurtaxen",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Meiringen",
+  "canton": "BE",
+  "rate": "3.00",
+  "note_en": "Hotels, holiday flats incl. Airbnb; children 6–16: 1.50. Plus cantonal levy CHF 1.00.",
+  "note_de": "Hotels, Ferienwohnungen inkl. Airbnb; Kinder 6–16: 1.50. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://extranet.jungfrauregion.swiss/de/resorts/haslital.html?_hash=0rh7AehzMb0Aob02Apbq2%2FztSCHw6GLdhuRfQ1LR7o4%3D&ctx=a%3A1%3A%7Bs%3A2%3A%22id%22%3Bi%3A128727%3B%7D&d=attachment&f=Tourismustaxen+im+Haslital+2026.pdf&p=websites%2Fextranet.jungfrauregion.swiss%2FDokumente%2FTourismustaxen+im+Haslital+2026.pdf",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Hasliberg",
+  "canton": "BE",
+  "rate": "3.00",
+  "note_en": "Haslital rate 2026; children 6–16: 1.50. Plus cantonal levy CHF 1.00.",
+  "note_de": "Haslital-Ansatz 2026; Kinder 6–16: 1.50. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://extranet.jungfrauregion.swiss/de/resorts/haslital.html?_hash=0rh7AehzMb0Aob02Apbq2%2FztSCHw6GLdhuRfQ1LR7o4%3D&ctx=a%3A1%3A%7Bs%3A2%3A%22id%22%3Bi%3A128727%3B%7D&d=attachment&f=Tourismustaxen+im+Haslital+2026.pdf&p=websites%2Fextranet.jungfrauregion.swiss%2FDokumente%2FTourismustaxen+im+Haslital+2026.pdf",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Thun",
+  "canton": "BE",
+  "rate": "2.00–4.00",
+  "note_en": "Regulation sets a range for hotels; camping 1.60–3.20. Plus cantonal levy CHF 1.00.",
+  "note_de": "Reglement legt Bandbreite für Hotels fest; Camping 1.60–3.20. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://www.thun.ch/_docn/4356430/935.214_Kurtaxreglement.pdf",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Aletsch Arena (Riederalp, Bettmeralp, Fiesch)",
+  "canton": "VS",
+  "rate": "3.50",
+  "note_en": "Since 1 Nov 2020; children 1.75. Holiday flats pay a flat fee.",
+  "note_de": "Seit 1.11.2020; Kinder 1.75. Ferienwohnungen zahlen pauschal.",
+  "source": "https://partner.aletscharena.ch/kurtaxe",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Leysin",
+  "canton": "VD",
+  "rate": "3.80",
+  "note_en": "Hotels, B&B, camping, second homes; children 6–16: 1.90.",
+  "note_de": "Hotels, B&B, Camping, Zweitwohnungen; Kinder 6–16: 1.90.",
+  "source": "https://static.mycity.travel/manage/uploads/6/28/928552/1/reglement-sur-la-taxe-de-sejour-et-sur-la-taxe-sur-les-residences-secondaires-pdf.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Anniviers (Zinal, Grimentz)",
+  "canton": "VS",
+  "rate": "4.00",
+  "note_en": "Children 2.00 (municipal flyer 2019).",
+  "note_de": "Kinder 2.00 (Merkblatt Gemeinde 2019).",
+  "source": "https://www.anniviers.org/data/documents/2_Administration/Services/Finances/TSF/190101_Flyer_TS_FR.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Bellinzona",
+  "canton": "TI",
+  "rate": "2.00",
+  "note_en": "Cantonal rate for rooms/holiday apartments.",
+  "note_de": "Kantonaler Satz für Zimmer/Ferienwohnungen.",
+  "source": "https://www.ticino.ch/it/hospitality/opportunita/tasse/alloggio.html",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Mendrisio",
+  "canton": "TI",
+  "rate": "2.00",
+  "note_en": "Cantonal rate for rooms/holiday apartments.",
+  "note_de": "Kantonaler Satz für Zimmer/Ferienwohnungen.",
+  "source": "https://www.ticino.ch/it/hospitality/opportunita/tasse/alloggio.html",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Airolo",
+  "canton": "TI",
+  "rate": "2.00",
+  "note_en": "Cantonal rate for rooms/holiday apartments.",
+  "note_de": "Kantonaler Satz für Zimmer/Ferienwohnungen.",
+  "source": "https://www.ticino.ch/it/hospitality/opportunita/tasse/alloggio.html",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Grächen",
+  "canton": "VS",
+  "rate": "3.80",
+  "note_en": "Hotels, holiday flats, group lodges, camping (regulation May 2018). Holiday flats pay an annual flat fee.",
+  "note_de": "Hotels, Ferienwohnungen, Gruppenunterkünfte, Camping (Reglement Mai 2018). Ferienwohnungen zahlen Jahrespauschale.",
+  "source": "https://gemeinde.graechen.ch/wp-content/uploads/2023/08/KurtaxenreglementderGemeindeGraechenMai2018.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Samedan",
+  "canton": "GR",
+  "rate": "capacity levy",
+  "note_en": "Since 1 Jan 2025 no per-night tax; annual lodging levy based on capacity (rooms, m², beds, pitches).",
+  "note_de": "Seit 1.1.2025 keine Taxe pro Nacht; jährliche Beherbergungsabgabe nach Kapazität (Zimmer, m², Betten, Stellplätze).",
+  "source": "https://www.samedan.ch/willkommen/gemeinde/aktuell.html/85/l/de/news/2878",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.samedan.ch/public/upload/assets/386231/10.102%20Beherbergungsgesetz.pdf?fp=2"
+ },
+ {
+  "name": "Sils/Segl",
+  "canton": "GR",
+  "rate": null,
+  "note_en": "No official per-night guest rate found; hosts pay an annual tourism tax per bed (CHF 550 from 1 May 2026), second homes an annual flat fee.",
+  "note_de": "Kein offizieller Ansatz pro Nacht gefunden; Vermietende zahlen jährliche Tourismustaxe pro Bett (CHF 550 ab 1.5.2026), Zweitwohnungen Jahrespauschale.",
+  "source": "https://www.sils-segl.ch/alles-von-a-bis-z/tourismusabgaben-g%C3%A4ste-tourismustaxe-infos.html",
+  "checked": "2026-10-13",
+  "status": "unverified"
+ },
+ {
+  "name": "Celerina",
+  "canton": "GR",
+  "rate": "capacity levy",
+  "note_en": "No per-night tax: rented holiday flats pay per year CHF 8.50/m² lodging levy + 2.00/m² tourism levy + 1.80/m² transport tax + CHF 80 per flat.",
+  "note_de": "Keine Taxe pro Nacht: vermietete Ferienwohnungen zahlen pro Jahr CHF 8.50/m² Beherbergungsabgabe + 2.00/m² Tourismusförderungsabgabe + 1.80/m² Verkehrstaxe + CHF 80 pro Wohnung.",
+  "source": "https://www.gemeinde-celerina.ch/fileadmin/user_upload/Dokumente/PDF/Informationsblatt_-_Tarifuebersicht.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Savognin",
+  "canton": "GR",
+  "rate": "4.00",
+  "note_en": "Zone A (Surses); hotels, flats, private rooms; children 6–16: 2.00.",
+  "note_de": "Zone A (Surses); Hotels, Wohnungen, Privatzimmer; Kinder 6–16: 2.00.",
+  "source": "https://surses.ch/uploads/files/Taxen%C3%BCbersicht%20ab%2001.05.2023%20-%20Stand%2014.07.2025.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Bergün",
+  "canton": "GR",
+  "rate": "capacity levy",
+  "note_en": "Bergün Filisur: no per-night tax; holiday flats CHF 120 per unit + CHF 12 per m² (max. 100 m²) per year for hosts.",
+  "note_de": "Bergün Filisur: keine Taxe pro Nacht; Ferienwohnungen CHF 120 pro Einheit + CHF 12 pro m² (max. 100 m²) pro Jahr für Vermietende.",
+  "source": "https://www.berguenfilisur.ch/fileadmin/user_upload/Publikationen_2023/Publikationen_2024/FAQs_zum_neuen_Tourismusgesetz.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Brienz",
+  "canton": "BE",
+  "rate": "2.00",
+  "note_en": "All accommodation types (ordinance of 9 Dec 2022). Plus cantonal levy CHF 1.00.",
+  "note_de": "Alle Unterkünfte (Verordnung vom 9.12.2022). Plus kant. Abgabe CHF 1.00.",
+  "source": "https://www.brienzamsee.swiss/pdf/Kurtaxen-TFA/Brienz_Kurtaxenverordnung_vom_09.12.2022.pdf?v=1786026174",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Spiez",
+  "canton": "BE",
+  "rate": "3.50",
+  "note_en": "Tariff since 1 Jan 2019; children up to 16 free. Plus cantonal levy CHF 1.00.",
+  "note_de": "Tarif seit 1.1.2019; Kinder bis 16 gratis. Plus kant. Abgabe CHF 1.00.",
+  "source": "https://www.spiez.com/unterkunft-gastro/unterkuenfte/kurtaxen",
+  "checked": "2026-10-13",
+  "status": "verified",
+  "source2": "https://www.weu.be.ch/de/start/themen/wirtschaft-und-arbeit/tourismus-und-regionalentwicklung/tourismusabgaben.html"
+ },
+ {
+  "name": "Les Diablerets (Ormont-Dessus)",
+  "canton": "VD",
+  "rate": "3.80",
+  "note_en": "Adults 16+; children 6+: 1.90.",
+  "note_de": "Erwachsene ab 16; Kinder ab 6: 1.90.",
+  "source": "https://www.ormont-dessus.ch/wp-content/uploads/2025/05/Taxe-de-sejour-information-locataire-proprietaire.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Château-d'Œx",
+  "canton": "VD",
+  "rate": "10 % of rent",
+  "note_en": "Chalet/flat rentals up to 60 days: 10 % of net rent, min. CHF 20 per stay; B&B and 1–3 star hotels 3.00 per night (regulation 2018).",
+  "note_de": "Chalet-/Wohnungsmiete bis 60 Tage: 10 % der Nettomiete, mind. CHF 20 pro Aufenthalt; B&B und 1–3-Stern-Hotels 3.00 pro Nacht (Reglement 2018).",
+  "source": "https://www.chateaudoex-admin.ch/_doc/1986031",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Vevey",
+  "canton": "VD",
+  "rate": "3.00",
+  "note_en": "Riviera intercommunal tax for villas/chalets/flats; any additional communal tax not checked.",
+  "note_de": "Interkommunale Riviera-Taxe für Villen/Chalets/Wohnungen; allfällige kommunale Zusatztaxe nicht geprüft.",
+  "source": "https://www.montreux.ch/fileadmin/documents/commune-de-montreux.ch/pdf/Reglements/CITS_rglmnt2023_adopte.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Nyon",
+  "canton": "VD",
+  "rate": "3.00",
+  "note_en": "Région de Nyon since Jan 2025: flats, chalets, B&B, camping 3.00; hotels 4.50.",
+  "note_de": "Région de Nyon seit Jan. 2025: Wohnungen, Chalets, B&B, Camping 3.00; Hotels 4.50.",
+  "source": "https://regiondenyon.ch/wp-content/uploads/2026/06/reglement-de-la-taxe-de-sejour-2025.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Champex-Lac (Orsières)",
+  "canton": "VS",
+  "rate": "3.60",
+  "note_en": "Hotels, chalets, flats; children 6–16: 1.80.",
+  "note_de": "Hotels, Chalets, Wohnungen; Kinder 6–16: 1.80.",
+  "source": "https://www.saint-bernard.ch/fr/a-notre-propos-91/",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Weggis",
+  "canton": "LU",
+  "rate": null,
+  "note_en": "Regulation sets a range of CHF 0.40–4.00 per night, fixed annually; current rate not found in an official source.",
+  "note_de": "Reglement legt Rahmen CHF 0.40–4.00 pro Nacht fest, jährlich festgesetzt; aktueller Satz in keiner offiziellen Quelle gefunden.",
+  "source": "https://www.weggis.ch/_doc/3867421",
+  "checked": "2026-10-13",
+  "status": "unverified"
+ },
+ {
+  "name": "Vitznau",
+  "canton": "LU",
+  "rate": "3.50",
+  "note_en": "Uniform rate; camping 2.00 (regulation valid from 1 Jan 2025).",
+  "note_de": "Einheitlicher Satz; Camping 2.00 (Reglement ab 1.1.2025).",
+  "source": "https://www.vitznau.ch/_doc/5451388",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Brunnen (Ingenbohl)",
+  "canton": "SZ",
+  "rate": "2.50",
+  "note_en": "Adults; youths 1.25 (regulation 2018).",
+  "note_de": "Erwachsene; Jugendliche 1.25 (Reglement 2018).",
+  "source": "https://tourismusportal.ch/files/mythen/Erlebnisregion-Mythen/PDF/Kurtaxenreglemente/2.2.1_Kurtaxenreglement_Gemeinde_Ingenbohl.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Einsiedeln",
+  "canton": "SZ",
+  "rate": null,
+  "note_en": "Current fixed rate not found officially. Planned: 4.90 (children 2.45) from 1 Mar 2027 if approved in the vote of 29 Nov 2026.",
+  "note_de": "Aktueller Satz nicht offiziell gefunden. Geplant: 4.90 (Kinder 2.45) ab 1.3.2027 bei Annahme am 29.11.2026.",
+  "source": "https://www.einsiedeln.ch/verwaltung/mitteilungen/aktuelle-mitteilungen?m=4510",
+  "checked": "2026-10-13",
+  "status": "unverified"
+ },
+ {
+  "name": "Appenzell",
+  "canton": "AI",
+  "rate": "2.00–5.00",
+  "note_en": "Cantonal law range for hotels/holiday flats; exact rate not found in an official source.",
+  "note_de": "Kantonaler Gesetzesrahmen für Hotels/Ferienwohnungen; genauer Satz in keiner offiziellen Quelle gefunden.",
+  "source": "https://ai.clex.ch/api/de/change_documents/file_dictionaries/38/pdf_file",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Wildhaus-Alt St. Johann",
+  "canton": "SG",
+  "rate": null,
+  "note_en": "Regulation sets range CHF 2–5 for hotels/flats; exact tariff (annex 1) not retrievable.",
+  "note_de": "Reglement legt Rahmen CHF 2–5 für Hotels/Wohnungen fest; genauer Tarif (Anhang 1) nicht abrufbar.",
+  "source": "https://partner.toggenburg.swiss/files/partner.toggenburg/media/Dokumente/Kurtaxenreglement%20WH-ASJ%20mit%20Ausfuehrungsbestimmungen%20ab%202023.pdf?version=b9c07a3293de5c67",
+  "checked": "2026-10-13",
+  "status": "unverified"
+ },
+ {
+  "name": "Flumserberg",
+  "canton": "SG",
+  "rate": "3.40",
+  "note_en": "Flums: incl. CHF 1.00 infrastructure contribution; children up to 6 free.",
+  "note_de": "Flums: inkl. CHF 1.00 Infrastruktur-Beitrag; Kinder bis 6 gratis.",
+  "source": "https://partner.heidiland.com/dienstleistungen/fuer-unterkuenfte/kurtaxen.html",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Schaffhausen",
+  "canton": "SH",
+  "rate": "2.50",
+  "note_en": "Cantonal tourist tax per night in all paid accommodation incl. holiday flats.",
+  "note_de": "Kantonale Kurtaxe pro Nacht in allen entgeltlichen Unterkünften inkl. Ferienwohnungen.",
+  "source": "https://www.lexfind.ch/tolv/246670/de",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Stein am Rhein",
+  "canton": "SH",
+  "rate": "2.50",
+  "note_en": "Cantonal tourist tax per night in all paid accommodation incl. holiday flats.",
+  "note_de": "Kantonale Kurtaxe pro Nacht in allen entgeltlichen Unterkünften inkl. Ferienwohnungen.",
+  "source": "https://www.lexfind.ch/tolv/246670/de",
+  "checked": "2026-10-13",
+  "status": "verified"
+ },
+ {
+  "name": "Solothurn",
+  "canton": "SO",
+  "rate": "2.00",
+  "note_en": "Holiday flats, group lodges, camping; hotels 3.00; children up to 12: CHF 1 less.",
+  "note_de": "Ferienwohnungen, Gruppenunterkünfte, Camping; Hotels 3.00; Kinder bis 12: CHF 1 weniger.",
+  "source": "https://www.solothurn-city.ch/_Resources/Persistent/3e579d0e605fc693b192a39e254c3ff9a0e25c02/64_Erhebung_Kurtaxe_Reglement.pdf",
+  "checked": "2026-10-13",
+  "status": "verified"
+ }
+]
