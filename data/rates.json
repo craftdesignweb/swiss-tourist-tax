@@ -372,12 +372,13 @@
  {
   "name": "Zug (city)",
   "canton": "ZG",
-  "rate": null,
-  "note_en": "City rate CHF 2.00 since 2023 (canton report). New cantonal minimum CHF 2.50: referendum period expired unused on 7 Sep 2026, but the cantonal government has not yet published the date of entry into force.",
-  "note_de": "Stadt seit 2023 CHF 2.00 (Bericht Regierungsrat). Neues kantonales Minimum CHF 2.50: Referendumsfrist am 7.9.2026 unbenutzt abgelaufen, Inkrafttreten vom Regierungsrat noch nicht publiziert.",
-  "source": "https://kr-geschaefte.zug.ch/gast/geschaefte/2899.pdf",
-  "checked": "2026-10-13",
-  "status": "unverified"
+  "rate": "2.00",
+  "note_en": "City rate CHF 2.00 since 1 Jan 2023 (adults; children/hostels/camping CHF 1.00). New cantonal minimum CHF 2.50: referendum period expired unused on 8 Sep 2026; the Regierungsrat has not yet published the entry-into-force date, so CHF 2.00 still applies until then.",
+  "note_de": "Stadt seit 1.1.2023 CHF 2.00 (Erwachsene; Kinder/Jugendherbergen/Camping CHF 1.00). Neues kantonales Minimum CHF 2.50: Referendumsfrist am 8.9.2026 unbenutzt abgelaufen; Inkrafttreten vom Regierungsrat noch nicht publiziert, bis dahin gilt weiter CHF 2.00.",
+  "source": "https://kr-geschaefte.zug.ch/dokumente/14920/3905-7-18670_Beherbergungsgesetz.pdf",
+  "checked": "2026-10-14",
+  "status": "verified",
+  "source2": "https://kr-geschaefte.zug.ch/gast/geschaefte/2899.pdf"
  },
  {
   "name": "Engelberg",
@@ -712,12 +713,13 @@
  {
   "name": "Weggis",
   "canton": "LU",
-  "rate": null,
-  "note_en": "Regulation sets a range of CHF 0.40–4.00 per night, fixed annually; current rate not found in an official source.",
-  "note_de": "Reglement legt Rahmen CHF 0.40–4.00 pro Nacht fest, jährlich festgesetzt; aktueller Satz in keiner offiziellen Quelle gefunden.",
-  "source": "https://www.weggis.ch/_doc/3867421",
-  "checked": "2026-10-13",
-  "status": "unverified"
+  "rate": "3.00 / 1.50",
+  "note_en": "Weggis: CHF 3.00 (1 Apr–15 Oct) and CHF 1.50 (16 Oct–31 Mar) for hotels, holiday flats, rooms; camping/straw etc. CHF 2.00 high season, CHF 1.50 low. Rigi Kaltbad year-round CHF 2.20 (flats/hotels). Plus cantonal lodging levy CHF 0.50. Annual flat fees for second homes CHF 300–750 by size (Budget 2026, unchanged).",
+  "note_de": "Weggis: CHF 3.00 (1.4.–15.10.) und CHF 1.50 (16.10.–31.3.) für Hotels, Ferienwohnungen, Zimmer; Camping/Stroh usw. CHF 2.00 Hochsaison, CHF 1.50 Nebensaison. Rigi Kaltbad ganzjährig CHF 2.20 (Wohnungen/Hotels). Plus kant. Beherbergungsabgabe CHF 0.50. Jahrespauschalen für Zweitwohnungen CHF 300–750 nach Grösse (Budget 2026, unverändert).",
+  "source": "https://www.weggis.ch/_doc/6370007",
+  "checked": "2026-10-14",
+  "status": "verified",
+  "source2": "https://www.weggis.ch/_doc/3867421"
  },
  {
   "name": "Vitznau",
