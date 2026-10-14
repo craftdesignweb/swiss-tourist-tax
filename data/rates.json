@@ -763,12 +763,13 @@
  {
   "name": "Wildhaus-Alt St. Johann",
   "canton": "SG",
-  "rate": null,
-  "note_en": "Regulation sets range CHF 2–5 for hotels/flats; exact tariff (annex 1) not retrievable.",
-  "note_de": "Reglement legt Rahmen CHF 2–5 für Hotels/Wohnungen fest; genauer Tarif (Anhang 1) nicht abrufbar.",
-  "source": "https://partner.toggenburg.swiss/files/partner.toggenburg/media/Dokumente/Kurtaxenreglement%20WH-ASJ%20mit%20Ausfuehrungsbestimmungen%20ab%202023.pdf?version=b9c07a3293de5c67",
-  "checked": "2026-10-13",
-  "status": "unverified"
+  "rate": "3.00",
+  "note_en": "Holiday flats/houses and hotels: CHF 3.00 per adult (15+) per night; ages 10–14: CHF 1.50; under 10 free. Anhang 1 remains the tariff under the 2023 amendment.",
+  "note_de": "Ferienwohnungen/-häuser und Hotels: CHF 3.00 pro Erwachsener (ab 15) und Nacht; 10–14 J.: CHF 1.50; unter 10 frei. Anhang 1 gilt weiter mit dem Nachtrag 2023.",
+  "source": "https://www.wildhaus-altstjohann.ch/public/upload/assets/2064/Kurtaxen_Anhang%201.pdf",
+  "checked": "2026-10-14",
+  "status": "verified",
+  "source2": "https://partner.toggenburg.swiss/files/partner.toggenburg/media/Dokumente/Kurtaxenreglement%20WH-ASJ%20mit%20Ausfuehrungsbestimmungen%20ab%202023.pdf?version=b9c07a3293de5c67"
  },
  {
   "name": "Flumserberg",
